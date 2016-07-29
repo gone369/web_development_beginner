@@ -1,3 +1,6 @@
+This repository contains the bare minimum to develop a webpage 
+it uses [express](www.expressjs.com) server to host the webpage locally. `server.js` contains the code to make that happen
+
 ## Install 
 install first by running 
 ```bash
