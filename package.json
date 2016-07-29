@@ -1,0 +1,28 @@
+{
+  "name": "web_development_beginner",
+  "version": "1.0.0",
+  "description": "super simple web development example using node express server for hosting static page locally",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gone369/web_development_beginner.git"
+  },
+  "keywords": [
+    "web",
+    "beginner",
+    "boilerplate",
+    "front-end"
+  ],
+  "author": "Xun Chen <xunchen369@gmail.com> (http://gone369.github.io)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/gone369/web_development_beginner/issues"
+  },
+  "homepage": "https://github.com/gone369/web_development_beginner#readme",
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
